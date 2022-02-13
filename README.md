@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  <img alt="upfi" src="public/upfi.jpg" width="100%">
+  <img alt="upfi" src="https://imgur.com/rDWmgzw.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
