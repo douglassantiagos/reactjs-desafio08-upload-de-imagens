@@ -29,7 +29,7 @@ export default function Home(): JSX.Element {
       }
     });
 
-    return data;
+    return data
   }
 
   const {
