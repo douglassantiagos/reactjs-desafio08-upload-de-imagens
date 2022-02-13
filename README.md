@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="upfi" title="upfi" src="https://imgur.com/JqRyMoW.png" width="150px" />
+  <img alt="upfi" title="upfi" src="public/logo.svg" width="220px" />
 </h1>
 
 <p align="center">
@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  <img alt="upfi" src=".github/layout-worldtrip.png" width="100%">
+  <img alt="upfi" src="public/upfi.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
